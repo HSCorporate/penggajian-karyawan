@@ -1,0 +1,14 @@
+{
+    "karyawan" : [
+        { "nik": 1, "nama": "zainal abidin", "jabatan": "Kepala Lembaga", "alamat": "Tongas", "gaji-pokok": 2500000, "tunjangan" : "", "jam-lembur": "", "total-gaji": "" },
+        { "nik": 2, "nama": "abidin", "jabatan": "Sekretaris", "alamat": "Tongas", "gaji-pokok": 2000000, "tunjangan" : "", "jam-lembur": "", "total-gaji": "" },
+        { "nik": 3, "nama": "abidin", "jabatan": "Sekretaris", "alamat": "Tongas", "gaji-pokok": 2000000, "tunjangan" : "", "jam-lembur": "", "total-gaji": "" },
+        { "nik": 4, "nama": "abidin", "jabatan": "Sekretaris", "alamat": "Tongas", "gaji-pokok": 2000000, "tunjangan" : "", "jam-lembur": "", "total-gaji": "" },
+        { "nik": 5, "nama": "abidin", "jabatan": "Sekretaris", "alamat": "Tongas", "gaji-pokok": 2000000, "tunjangan" : "", "jam-lembur": "", "total-gaji": "" },
+        { "nik": 6, "nama": "abidin", "jabatan": "Sekretaris", "alamat": "Tongas", "gaji-pokok": 2000000, "tunjangan" : "", "jam-lembur": "", "total-gaji": "" },
+        { "nik": 7, "nama": "abidin", "jabatan": "Sekretaris", "alamat": "Tongas", "gaji-pokok": 2000000, "tunjangan" : "", "jam-lembur": "", "total-gaji": "" },
+        { "nik": 8, "nama": "abidin", "jabatan": "Sekretaris", "alamat": "Tongas", "gaji-pokok": 2000000, "tunjangan" : "", "jam-lembur": "", "total-gaji": "" },
+        { "nik": 9, "nama": "abidin", "jabatan": "Sekretaris", "alamat": "Tongas", "gaji-pokok": 2000000, "tunjangan" : "", "jam-lembur": "", "total-gaji": "" },
+        { "nik": 10, "nama": "abidin", "jabatan": "Sekretaris", "alamat": "Tongas", "gaji-pokok": 2000000, "tunjangan" : "", "jam-lembur": "", "total-gaji": "" }
+    ]
+}
